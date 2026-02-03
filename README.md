@@ -59,7 +59,7 @@ Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio struttu
 ### 📫 Contatti & Link
 
 - 🌐 **Portfolio:** [Visita il mio sito](https://lorenzoanzivino.dev) _(placeholder, da aggiornare con URL definitivo)_
-- 🔗 **LinkedIn:** [Lorenzo Anzivino](https://www.linkedin.com/in/lorenzo-anzivino-0a95b92ab)
+- 🔗 **LinkedIn:** [Lorenzo Anzivino](https://www.linkedin.com/in/lorenzo-anzivino-dev)
 - 📧 **Email:** [lorenzoanzivinodigital@gmail.com](mailto:lorenzoanzivinodigital@gmail.com)
 
 ---
