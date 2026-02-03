@@ -56,14 +56,6 @@ Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio struttu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorenzoanzivino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
----
-
 ### 📫 Contatti & Link
 
 - 🌐 **Portfolio:** [Visita il mio sito](https://lorenzoanzivino.dev) _(placeholder, da aggiornare con URL definitivo)_
