@@ -36,6 +36,13 @@ Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio struttu
 - **Stack:** React, Flask, PostgreSQL
 - **Focus:** Motore di workout JSON-based, tracciamento progressi, logica offline-first, gamification
 
+#### 🧰 [Dev-Inventory-API](https://github.com/Lorenzoanzivino/Dev-Inventory-API)
+
+**RESTful API per la gestione di risorse e tool per sviluppatori.**
+
+- **Stack:** Java, Spring Boot, Spring Data JPA
+- **Focus:** architettura REST, separazione Controller/Service/Repository, mapping DTO, API design
+
 #### ☕ [workspace_java_eclipse](https://github.com/Lorenzoanzivino/workspace_java_eclipse)
 
 **Moduli Java Enterprise e Core Ecosystem.**
