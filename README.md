@@ -47,7 +47,7 @@ Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio struttu
 
 **Moduli Java Enterprise e Core Ecosystem.**
 
-- **Stack:** Java, Spring Boot, Eclipse
+- **Stack:** Java, Spring Boot, Eclipse, IntelliJ IDEA
 - **Focus:** Design pattern, gestione dipendenze, logiche backend scalabili
 
 #### ☁️ [Esercizi_ITS](https://github.com/Lorenzoanzivino/Esercizi_ITS)
