@@ -2,12 +2,25 @@
 
 ### 🚀 Application Cloud Developer in formazione | Studente ITS-ICT Academy
 
-Studente ITS-ICT Academy specializzato nello sviluppo di applicazioni web e backend full-stack.  
-Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio strutturato tra analisi, progettazione e test.
+Studente ITS-ICT Academy focalizzato sullo sviluppo backend e full-stack di applicazioni web scalabili.  
+Seguo un approccio strutturato: analisi → progettazione → implementazione → test → refactor.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
 
 **Backend**
 - Java  
@@ -29,12 +42,23 @@ Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio struttu
 
 ### 📂 Progetti Principali (Pinned Repositories)
 
-#### 💻 [Lorenzo-portfolio](https://github.com/Lorenzoanzivino/Lorenzo-portfolio)
+#### 🧰 [Dev-Inventory-API](https://github.com/Lorenzoanzivino/Dev-Inventory-API)
 
-**Portfolio Full-Stack.**
+**RESTful API per la gestione di risorse e tool per sviluppatori.**
 
-- **Stack:** React, Tailwind CSS, Flask  
-- **Focus:** UI/UX, gestione dinamica dei lead, performance ottimizzate  
+- **Stack:** Java, Spring Boot (Spring Data JPA, Hibernate), PostgreSQL  
+- **Architettura:** Controller → Service → Repository (pattern layered)  
+- **Persistenza:**
+  - mapping entità con JPA (`@Entity`, relazioni tra tabelle)
+  - gestione relazioni (`@OneToMany`, `@ManyToOne`)
+  - utilizzo di repository Spring Data e query personalizzate
+- **API Design:**
+  - separazione DTO / Entity
+  - validazione input
+  - gestione errori e codici HTTP
+- **Problemi affrontati:**
+  - gestione consistenza dati e transazioni
+- **Focus:** clean architecture, separazione delle responsabilità, manutenibilità
 
 ---
 
@@ -43,16 +67,20 @@ Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio struttu
 **Piattaforma gestionale per personal trainer e atleti.**
 
 - **Stack:** React, Flask, PostgreSQL  
-- **Focus:** motore di workout JSON-based, tracciamento progressi, logica offline-first, gamification  
+- **Focus:**
+  - motore di workout JSON-based
+  - gestione stato e progressi utente
+  - logica offline-first
+  - gamification
 
 ---
 
-#### 🧰 [Dev-Inventory-API](https://github.com/Lorenzoanzivino/Dev-Inventory-API)
+#### 💻 [Lorenzo-portfolio](https://github.com/Lorenzoanzivino/Lorenzo-portfolio)
 
-**RESTful API per la gestione di risorse e tool per sviluppatori.**
+**Portfolio Full-Stack.**
 
-- **Stack:** Java, Spring Boot (Spring Data JPA, Hibernate), PostgreSQL  
-- **Focus:** architettura REST, separazione Controller/Service/Repository, mapping DTO, gestione persistenza con ORM, API design  
+- **Stack:** React, Tailwind CSS, Flask  
+- **Focus:** UI/UX, gestione dinamica dei lead, performance
 
 ---
 
@@ -60,8 +88,8 @@ Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio struttu
 
 **Moduli Java Enterprise e Core Ecosystem.**
 
-- **Stack:** Java, Spring Boot, Eclipse, IntelliJ IDEA  
-- **Focus:** design pattern, gestione dipendenze, logiche backend scalabili  
+- **Stack:** Java, Spring Boot  
+- **Focus:** design pattern, gestione dipendenze, logiche backend
 
 ---
 
@@ -69,7 +97,7 @@ Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio struttu
 
 **Repository formativa ITS-ICT Academy.**
 
-- **Ambiti:** architetture cloud, database relazionali, cyber security, programmazione OOP  
+- **Ambiti:** architetture cloud, database relazionali, cyber security, OOP  
 
 ---
 
@@ -78,15 +106,15 @@ Lavoro su progetti cloud scalabili e mobile-first, seguendo un approccio struttu
 **Cross-platform Mobile Game.**
 
 - **Engine:** Godot (GDScript)  
-- **Focus:** gestione fisica, input mobile, ottimizzazione risorse grafiche  
+- **Focus:** gestione fisica, input mobile, ottimizzazione risorse  
 
 ---
 
 ### 📫 Contatti & Link
 
-- 🌐 **Portfolio:** [Visita il mio sito](https://lorenzoanzivino.it/)  
-- 🔗 **LinkedIn:** [Lorenzo Anzivino](https://www.linkedin.com/in/lorenzo-anzivino-dev)  
-- 📧 **Email:** [lorenzoanzivinodigital@gmail.com](mailto:lorenzoanzivinodigital@gmail.com)  
+- 🌐 **Portfolio:** https://lorenzoanzivino.it/  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/lorenzo-anzivino-dev  
+- 📧 **Email:** lorenzoanzivinodigital@gmail.com  
 
 ---
 
