@@ -53,23 +53,20 @@ Seguo un approccio strutturato: analisi → progettazione → implementazione �
 ### 📂 Progetti Principali (Pinned Repositories)
 <a name="progetti-principali-pinned-repositories"></a>
 
-#### 🧰 [Dev-Inventory-API](https://github.com/Lorenzoanzivino/Dev-Inventory-API)
+#### ☁️ [Dev-Inventory-Cloud](https://github.com/Lorenzoanzivino/Dev-Inventory-Cloud)
 
-**RESTful API per la gestione di risorse e tool per sviluppatori.**
+**Ecosistema a microservizi cloud-native per la gestione di risorse tech.**
 
-- **Stack:** Java, Spring Boot (Spring Data JPA, Hibernate), PostgreSQL  
-- **Architettura:** Controller → Service → Repository (pattern layered)  
-- **Persistenza:**
-  - mapping entità con JPA (`@Entity`, relazioni tra tabelle)
-  - gestione relazioni (`@OneToMany`, `@ManyToOne`)
-  - utilizzo di repository Spring Data e query personalizzate
-- **API Design:**
-  - separazione DTO / Entity
-  - validazione input
-  - gestione errori e codici HTTP
-- **Problemi affrontati:**
-  - gestione consistenza dati e transazioni
-- **Focus:** clean architecture, separazione delle responsabilità, manutenibilità
+- **Stack:** Java 17, Spring Boot 3.2, PostgreSQL, Docker & Docker Compose.
+- **Architettura:** Microservizi stateless (Auth, Catalog, Developer) coordinati da un **API Gateway** (Spring Cloud Gateway).
+- **Pattern & Logiche:**
+  - Implementazione pattern **CQRS** per la separazione tra comandi di scrittura e query di lettura.
+  - Comunicazione inter-service tramite **OpenFeign**.
+  - Mapping professionale DTO-Entity con **MapStruct**.
+  - Gestione centralizzata delle eccezioni e logging strutturato in formato **JSON**.
+- **Qualità & Testing:**
+  - Piramide dei test completa: Unit Test (Mockito), Persistence Test (H2 Database) e Web Layer Test (MockMvc).
+- **Focus:** Scalabilità orizzontale, containerizzazione, clean code e robustezza del sistema.
 
 ---
 
