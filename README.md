@@ -125,7 +125,8 @@ Seguo un approccio strutturato: analisi → progettazione → implementazione �
 
 - 🌐 **Portfolio:** https://lorenzoanzivino.it/  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/lorenzo-anzivino-dev  
-- 📧 **Email:** lorenzoanzivinodigital@gmail.com  
+- 📧 **Email:** lorenzoanzivinodigital@gmail.com
+- 📧 **Email:** lorenzoanzivino1997@gmail.com  
 
 ⬆️ [Torna al sommario](#-sommario)
 
