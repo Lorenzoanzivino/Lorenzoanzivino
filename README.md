@@ -4,6 +4,7 @@
 
 Studente ITS-ICT Academy focalizzato sullo sviluppo backend e full-stack di applicazioni web scalabili.  
 Seguo un approccio strutturato: analisi → progettazione → implementazione → test → refactor.
+
 Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TECHNOLOGY srl (Roma).
 
 ---
