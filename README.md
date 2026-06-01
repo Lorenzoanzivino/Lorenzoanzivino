@@ -1,9 +1,10 @@
 # Lorenzo Anzivino
 
-### 🚀 Application Cloud Developer in formazione | Studente ITS-ICT Academy
+### 🚀 Backend & DevOps Assistant (Tirocinio @ ONYX TECHNOLOGY srl) | Studente ITS-ICT Academy
 
 Studente ITS-ICT Academy focalizzato sullo sviluppo backend e full-stack di applicazioni web scalabili.  
 Seguo un approccio strutturato: analisi → progettazione → implementazione → test → refactor.
+Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TECHNOLOGY srl (Roma).
 
 ---
 
@@ -87,7 +88,7 @@ Seguo un approccio strutturato: analisi → progettazione → implementazione �
 
 **Portfolio Full-Stack.**
 
-- **Stack:** React, Tailwind CSS, Flask  
+- **Stack:** React, Flask  
 - **Focus:** UI/UX, gestione dinamica dei lead, performance
 
 ---
@@ -132,4 +133,4 @@ Seguo un approccio strutturato: analisi → progettazione → implementazione �
 
 ---
 
-_Ultimo aggiornamento: Aprile 2026_
+_Ultimo aggiornamento: Giugno 2026_
