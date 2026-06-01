@@ -1,6 +1,6 @@
 # Lorenzo Anzivino
 
-### 🚀 Backend & DevOps Assistant (Tirocinio @ ONYX TECHNOLOGY srl) | Studente ITS-ICT Academy
+### 🚀 Backend & DevOps Assistant (Tirocinio ONYX TECHNOLOGY srl) | Studente ITS-ICT Academy
 
 Studente ITS-ICT Academy focalizzato sullo sviluppo backend e full-stack di applicazioni web scalabili.  
 Seguo un approccio strutturato: analisi → progettazione → implementazione → test → refactor.
