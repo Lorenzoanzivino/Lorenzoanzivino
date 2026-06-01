@@ -25,7 +25,9 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -37,13 +39,15 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 - Spring Boot (Spring Data JPA, Hibernate)
 
 **Frontend**
-- JavaScript, React
+- React
 
 **Database**
 - PostgreSQL
 
 **DevOps & Tools**
 - Docker
+- Git & GitFlow (Branching model, PRs)
+- GitHub (Actions per CI/CD, Issues, Projects)
 
 **Altri linguaggi / framework**
 - Python, Flask
