@@ -1,5 +1,7 @@
 # Lorenzo Anzivino
 
+![Portrait](portrait.svg)
+
 ### 🚀 Backend & DevOps Assistant (Tirocinio ONYX TECHNOLOGY srl) | Studente ITS-ICT Academy
 
 Studente ITS-ICT Academy focalizzato sullo sviluppo backend e full-stack di applicazioni web scalabili.  
@@ -10,6 +12,7 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 ---
 
 ## 📑 Sommario
+
 - [Tech Stack & Tools](#tech-stack--tools)
 - [Progetti Principali](#progetti-principali-pinned-repositories)
 - [Contatti & Link](#contatti--link)
@@ -17,6 +20,7 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 ---
 
 ### 🛠️ Tech Stack & Tools
+
 <a name="tech-stack--tools"></a>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,21 +39,26 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 ---
 
 **Backend**
-- Java  
+
+- Java
 - Spring Boot (Spring Data JPA, Hibernate)
 
 **Frontend**
+
 - React
 
 **Database**
+
 - PostgreSQL
 
 **DevOps & Tools**
+
 - Docker
 - Git & GitFlow (Branching model, PRs)
 - GitHub (Actions per CI/CD, Issues, Projects)
 
 **Altri linguaggi / framework**
+
 - Python, Flask
 
 ⬆️ [Torna al sommario](#-sommario)
@@ -57,6 +66,7 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 ---
 
 ### 📂 Progetti Principali (Pinned Repositories)
+
 <a name="progetti-principali-pinned-repositories"></a>
 
 #### ☁️ [Dev-Inventory-Cloud](https://github.com/Lorenzoanzivino/Dev-Inventory-Cloud)
@@ -80,7 +90,7 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 
 **Piattaforma gestionale per personal trainer e atleti.**
 
-- **Stack:** React, Flask, PostgreSQL  
+- **Stack:** React, Flask, PostgreSQL
 - **Focus:**
   - motore di workout JSON-based
   - gestione stato e progressi utente
@@ -93,7 +103,7 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 
 **Portfolio Full-Stack.**
 
-- **Stack:** React, Flask  
+- **Stack:** React, Flask
 - **Focus:** UI/UX, gestione dinamica dei lead, performance
 
 ---
@@ -102,7 +112,7 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 
 **Moduli Java Enterprise e Core Ecosystem.**
 
-- **Stack:** Java, Spring Boot  
+- **Stack:** Java, Spring Boot
 - **Focus:** design pattern, gestione dipendenze, logiche backend
 
 ---
@@ -111,7 +121,7 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 
 **Repository formativa ITS-ICT Academy.**
 
-- **Ambiti:** architetture cloud, database relazionali, cyber security, OOP  
+- **Ambiti:** architetture cloud, database relazionali, cyber security, OOP
 
 ---
 
@@ -119,20 +129,21 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 
 **Cross-platform Mobile Game.**
 
-- **Engine:** Godot (GDScript)  
-- **Focus:** gestione fisica, input mobile, ottimizzazione risorse  
+- **Engine:** Godot (GDScript)
+- **Focus:** gestione fisica, input mobile, ottimizzazione risorse
 
 ⬆️ [Torna al sommario](#-sommario)
 
 ---
 
 ### 📫 Contatti & Link
+
 <a name="contatti--link"></a>
 
-- 🌐 **Portfolio:** https://lorenzoanzivino.it/  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/lorenzo-anzivino-dev  
+- 🌐 **Portfolio:** https://lorenzoanzivino.it/
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/lorenzo-anzivino-dev
 - 📧 **Email:** lorenzoanzivinodigital@gmail.com
-- 📧 **Email:** lorenzoanzivino1997@gmail.com  
+- 📧 **Email:** lorenzoanzivino1997@gmail.com
 
 ⬆️ [Torna al sommario](#-sommario)
 
