@@ -124,55 +124,42 @@
     </text>
   </g>
 
-  <!-- Riga 1 (Titolo Profilo con Separatore Calcolato a 68 Caratteri) -->
   <g clip-path="url(#lc0)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="42" class="head">lorenzo@onyx</tspan><tspan class="cc"> -------------------------------------------------------</tspan></text></g>
   
-  <!-- Blocco Informazioni Generali (Riallineate al Margine Destro) -->
   <g clip-path="url(#lc1)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="66" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc">: ........................................ </tspan><tspan class="value">Lorenzo Anzivino</tspan></text></g>
   <g clip-path="url(#lc2)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="88" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ................................. </tspan><tspan class="value">Backend &amp; DevOps Assistant</tspan></text></g>
   <g clip-path="url(#lc3)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Company</tspan><tspan class="cc">: .............................. </tspan><tspan class="value">ONYX TECHNOLOGY srl (Rome)</tspan></text></g>
   <g clip-path="url(#lc4)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="132" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ............................... </tspan><tspan class="value">ITS-ICT Academy Student</tspan></text></g>
-  <g clip-path="url(#lc5)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="154" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Designing • Implementing • Testing</tspan></text></g>
+  <g clip-path="url(#lc5)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="154" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Designing / Implementing / Testing</tspan></text></g>
   <g clip-path="url(#lc6)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="176" class="cc">. </tspan><tspan class="key">ToolChain</tspan><tspan class="cc">: ................... </tspan><tspan class="value">VS Code, IntelliJ IDEA, Docker, Git</tspan></text></g>
   
-  <!-- Riga Vuota -->
   <g clip-path="url(#lc7)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="198" class="cc">. </tspan></text></g>
   
-  <!-- Blocco Competenze Tecniche (Riallineate al Margine Destro) -->
   <g clip-path="url(#lc8)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="220" class="cc">. </tspan><tspan class="key">Core.Lang</tspan><tspan class="cc">: ..................................... </tspan><tspan class="value">Java, Python, SQL</tspan></text></g>
   <g clip-path="url(#lc9)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="242" class="cc">. </tspan><tspan class="key">Core.Backend</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">Spring Boot, JPA, Flask</tspan></text></g>
   <g clip-path="url(#lc10)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="264" class="cc">. </tspan><tspan class="key">Core.Frontend</tspan><tspan class="cc">: ............................................. </tspan><tspan class="value">React</tspan></text></g>
   <g clip-path="url(#lc11)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="286" class="cc">. </tspan><tspan class="key">Core.Database</tspan><tspan class="cc">: ............................. </tspan><tspan class="value">PostgreSQL, Oracle DB</tspan></text></g>
   <g clip-path="url(#lc12)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="308" class="cc">. </tspan><tspan class="key">Core.Patterns</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">CQRS, MVC, Microservices</tspan></text></g>
   
-  <!-- Riga Vuota -->
   <g clip-path="url(#lc13)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="330" class="cc">. </tspan></text></g>
   
-  <!-- Riga Sezione Contatti (Separatore Calcolato a 68 Caratteri) -->
   <g clip-path="url(#lc14)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="352" class="accent">- Contact</tspan><tspan class="cc"> ----------------------------------------------------------</tspan></text></g>
   
-  <!-- Blocco Contatti e Link (Riallineate al Margine Destro) -->
   <g clip-path="url(#lc15)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="374" class="cc">. </tspan><tspan class="key">Grid.Mail</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">lorenzoanzivinodigital@gmail.com</tspan></text></g>
   <g clip-path="url(#lc16)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="396" class="cc">. </tspan><tspan class="key">Grid.Portfolio</tspan><tspan class="cc">: ............................... </tspan><tspan class="value">lorenzoanzivino.it</tspan></text></g>
   <g clip-path="url(#lc17)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="418" class="cc">. </tspan><tspan class="key">Grid.LinkedIn</tspan><tspan class="cc">: .............................. </tspan><tspan class="value">lorenzo-anzivino-dev</tspan></text></g>
   <g clip-path="url(#lc18)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="440" class="cc">. </tspan><tspan class="key">Grid.Github</tspan><tspan class="cc">: ..................................... </tspan><tspan class="value">Lorenzoanzivino</tspan></text></g>
   
-  <!-- Riga Vuota -->
   <g clip-path="url(#lc19)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="462" class="cc">. </tspan></text></g>
   
-  <!-- Riga Sezione Live Stats (Separatore Calcolato a 68 Caratteri) -->
   <g clip-path="url(#lc20)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="484" class="accent">- Live Stats</tspan><tspan class="cc"> ---------------------------------------------------------</tspan></text></g>
-  
-  <!-- Nota a Piè di Pagina -->
   <g clip-path="url(#lc21)"><text x="520" y="0" fill="#0F172A"><tspan x="520" y="506" class="cc">. </tspan><tspan class="value">See projects and detailed tech stack below in README ↓</tspan></text></g>
 
-  <!-- Cursore di Scrittura Lampeggiante -->
   <rect x="522" y="491.0" width="9" height="16" class="cursor-blink" opacity="0">
     <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.66s" repeatCount="indefinite"/>
   </rect>
 </g>
 
-<!-- Effetto Scanline e Bordi Animati del Terminale -->
 <rect x="0" y="-70" width="1180" height="70" fill="url(#scanGrad)" opacity="0.12">
   <animateTransform attributeName="transform" type="translate" from="0 -70" to="0 680" dur="4.2s" repeatCount="indefinite"/>
 </rect>
