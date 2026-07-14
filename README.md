@@ -1,6 +1,6 @@
 # Lorenzo Anzivino
 
-![Portrait](portrait.svg)
+![Portrait](portrait.svg?v=1)
 
 ### 🚀 Backend & DevOps Assistant (Tirocinio ONYX TECHNOLOGY srl) | Studente ITS-ICT Academy
 
