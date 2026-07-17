@@ -2,7 +2,7 @@
 
 ![Portrait](portrait.svg?v=1)
 
-### 🚀 Backend & DevOps Assistant (Tirocinio ONYX TECHNOLOGY srl) | Studente ITS-ICT Academy
+### 🚀 Java Backend Assistant (Tirocinio ONYX TECHNOLOGY srl) | Studente ITS-ICT Academy
 
 Studente ITS-ICT Academy focalizzato sullo sviluppo backend e full-stack di applicazioni web scalabili.  
 Seguo un approccio strutturato: analisi → progettazione → implementazione → test → refactor.
@@ -43,10 +43,6 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 - Java
 - Spring Boot (Spring Data JPA, Hibernate)
 
-**Frontend**
-
-- React
-
 **Database**
 
 - PostgreSQL
@@ -59,7 +55,7 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 
 **Altri linguaggi / framework**
 
-- Python, Flask
+- Python, Flask, React, Oracle
 
 ⬆️ [Torna al sommario](#-sommario)
 
@@ -142,11 +138,11 @@ Attualmente impegnato come tirocinante in ambito Backend e DevOps presso ONYX TE
 
 - 🌐 **Portfolio:** https://lorenzoanzivino.it/
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/lorenzo-anzivino-dev
-- 📧 **Email:** lorenzoanzivinodigital@gmail.com
-- 📧 **Email:** lorenzoanzivino1997@gmail.com
+- 📧 **Email Principale:** lorenzoanzivinodigital@gmail.com
+- 📧 **Email Secondaria:** lorenzoanzivino1997@gmail.com
 
 ⬆️ [Torna al sommario](#-sommario)
 
 ---
 
-_Ultimo aggiornamento: Giugno 2026_
+_Ultimo aggiornamento: Luglio 2026_
