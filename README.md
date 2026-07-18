@@ -1,8 +1,3 @@
-TL;DR: Il file risultante unisce la struttura professionale e le descrizioni dettagliate dei progetti del tuo README originale, integrandole con i badge visivi e le statistiche dinamiche generate tramite GPRM.
-
-Di seguito trovi il codice completo del nuovo file Markdown unificato. Puoi copiarlo e incollarlo direttamente.
-
-```markdown
 # Lorenzo Anzivino
 
 ![Portrait](portrait.svg?v=1)
@@ -132,5 +127,6 @@ Di seguito trovi il codice completo del nuovo file Markdown unificato. Puoi copi
     <img src="https://komarev.com/ghpvc/?username=Lorenzoanzivino&icon=0&color=0" alt="Visitor Count" />
   </a>
 </p>
+---
 
-```
+_Ultimo aggiornamento: Luglio 2026_
