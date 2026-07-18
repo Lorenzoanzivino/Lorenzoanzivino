@@ -96,14 +96,6 @@ Metodologie, pattern e principi di progettazione software che applico nello svil
 
 ---
 
-<h3 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lorenzoanzivino&theme=onedark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" />
-</p>
-
----
-
 ## ⏳ Timeline
 
 - **2024** | ITS-ICT Academy
