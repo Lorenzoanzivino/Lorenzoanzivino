@@ -1,45 +1,35 @@
 # Lorenzo Anzivino
 
-![Portrait](portrait.svg?v=1)
-
 ## 💫 About Me
 
 * 🎓 Studente dell'ITS-ICT Academy nel corso Application Cloud Developer.
-* 💼 Backend Developer Intern presso ONYX TECHNOLOGY srl (Roma), dove sto sviluppando un progetto backend ad architettura microservizi.
-* 🛠️ Sviluppo soluzioni backend stabili e scalabili, seguendo un approccio strutturato: analisi → progettazione → implementazione → refactor → test → containerization → deployment.
-* 🚀 Obiettivo futuro: il mio percorso di crescita mira alla specializzazione nell'ambito DevOps e nella definizione di architetture Cloud ad alta disponibilità.
+* 💼 Backend Developer Intern presso ONYX TECHNOLOGY srl, dove sto svolgendo un tirocinio focalizzato sullo sviluppo di un progetto backend ad architettura microservizi con Java, Spring Boot e database Oracle.
+* 🛠️ Competenze principali orientate allo sviluppo di soluzioni lato backend stabili e scalabili, seguendo l'approccio: analisi → progettazione → implementazione → refactor → test → containerization → deployment.
+* 🚀 Obiettivi futuri: il mio percorso di crescita mira alla specializzazione nell'ambito DevOps e nella definizione di architetture Cloud ad alta disponibilità.
 
 ---
 
 ## 📑 Sommario
 
-- [Tech Stack & Tools](#tech-stack--tools)
-- [Statistiche GitHub](#statistiche-github)
-- [Progetti Principali](#progetti-principali)
-- [Contatti & Social](#contatti--social)
+- [Tech Stack & Tools](#-tech-stack--tools)
+- [Statistiche GitHub](#-statistiche-github)
+- [Progetti Principali](#-progetti-principali)
+- [Contatti & Social](#-contatti--social)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
-<a name="tech-stack--tools"></a>
-
-**Backend & Core**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-**Database**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**DevOps, Tools & Frontend**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ⬆️ [Torna al sommario](#-sommario)
 
@@ -47,19 +37,10 @@
 
 ## 📊 Statistiche GitHub
 
-<a name="statistiche-github"></a>
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Lorenzoanzivino&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Lorenzoanzivino&theme=onedark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lorenzoanzivino&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Lorenzoanzivino&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lorenzoanzivino&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Lorenzoanzivino&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzoanzivino&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ⬆️ [Torna al sommario](#-sommario)
@@ -67,8 +48,6 @@
 ---
 
 ## 📂 Progetti Principali
-
-<a name="progetti-principali"></a>
 
 #### ☁️ [Dev-Inventory-Cloud](https://github.com/Lorenzoanzivino/Dev-Inventory-Cloud)
 **Ecosistema a microservizi cloud-native per la gestione di risorse tech.**
@@ -112,21 +91,17 @@
 
 ## 📫 Contatti & Social
 
-<a name="contatti--social"></a>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-anzivino-dev) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/lorenzo-anzivino) 
-
-* 🌐 **Portfolio:** [lorenzoanzivino.it](https://lorenzoanzivino.it/)
-* 📧 **Email Principale:** [lorenzoanzivinodigital@gmail.com](mailto:lorenzoanzivinodigital@gmail.com)
-* 📧 **Email Secondaria:** [lorenzoanzivino1997@gmail.com](mailto:lorenzoanzivino1997@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://lorenzoanzivino.it/)
+[![Email Principale](https://img.shields.io/badge/Email_Principale-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzoanzivinodigital@gmail.com)
+[![Email Secondaria](https://img.shields.io/badge/Email_Secondaria-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzoanzivino1997@gmail.com)
 
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Lorenzoanzivino&icon=0&color=0" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=Lorenzoanzivino&color=blue&style=flat" alt="Visitor Count" />
   </a>
 </p>
----
 
 _Ultimo aggiornamento: Luglio 2026_
