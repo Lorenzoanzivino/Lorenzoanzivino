@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Lorenzo%20Anzivino&fontSize=50&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Cloud&descSize=20&descColor=58a6ff" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Lorenzo%20Anzivino&fontSize=50&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Cloud&descSize=20&descAlignY=80&descColor=58a6ff" alt="Hero Banner" />
 </p>
 
 ## 💫 About Me
@@ -13,9 +13,9 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-## ⚙️ Currently Working On
+### ⚙️ Su cosa sto lavorando
 
 * Enterprise microservices
 * Oracle Database
@@ -24,9 +24,9 @@
 * REST APIs
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-## 🌱 Currently Learning
+### 🌱 Cosa sto imparando
 
 * Kubernetes
 * CI/CD
@@ -43,19 +43,19 @@
 ## 💻 Tech Stack
 
 **Backend**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/apache_maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="28" /> <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" height="28" />
 
 **Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" height="28" />
 
 **Database**  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" height="28" />
 
 **DevOps**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" height="28" />
 
 **Tools**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" height="28" />
 
 ---
 
@@ -80,7 +80,8 @@
 * ✔ REST APIs
 * ✔ API Gateway
 * ✔ Docker Compose
-<br>→ [Repository](https://github.com/Lorenzoanzivino/Dev-Inventory-Cloud)
+
+<br>
 
 ### 🏋️ [MyTrainUp-public](https://github.com/Lorenzoanzivino/MyTrainUp-public)
 **Piattaforma gestionale per personal trainer e atleti**  
@@ -88,7 +89,8 @@
 * ✔ Motore di workout JSON-based
 * ✔ Logica offline-first
 * ✔ Gamification
-<br>→ [Repository](https://github.com/Lorenzoanzivino/MyTrainUp-public)
+
+<br>
 
 ### 💻 [Lorenzo-portfolio](https://github.com/Lorenzoanzivino/Lorenzo-portfolio)
 **Portfolio Full-Stack**  
@@ -96,7 +98,8 @@
 * ✔ UI/UX
 * ✔ Gestione dinamica lead
 * ✔ Ottimizzazione performance
-<br>→ [Repository](https://github.com/Lorenzoanzivino/Lorenzo-portfolio)
+
+<br>
 
 ### ☕ [workspace_java_eclipse](https://github.com/Lorenzoanzivino/workspace_java_eclipse)
 **Moduli Java Enterprise e Core Ecosystem**  
@@ -104,14 +107,13 @@
 * ✔ Design pattern
 * ✔ Gestione dipendenze
 * ✔ Logiche backend
-<br>→ [Repository](https://github.com/Lorenzoanzivino/workspace_java_eclipse)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lorenzoanzivino&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lorenzoanzivino&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lorenzoanzivino&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -142,10 +144,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://lorenzoanzivino.it/)
 [![Email Principale](https://img.shields.io/badge/Email_Principale-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lorenzoanzivinodigital@gmail.com)
 [![Email Secondaria](https://img.shields.io/badge/Email_Secondaria-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lorenzoanzivino1997@gmail.com)
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Lorenzoanzivino&color=blue&style=flat-square" alt="Visitor Count" />
-  </a>
-</p>
