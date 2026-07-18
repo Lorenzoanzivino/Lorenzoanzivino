@@ -6,7 +6,7 @@
 
 - 🎓 Studente dell' [ITS-ICT Academy](https://www.its-ictacademy.com/) nel corso Application Cloud Developer. 
 - 💼 Backend Developer Intern [ONYX TECHNOLOGY srl](https://onyxtechnology.it/).
-- 🛠️ Sviluppo di microservizi Java/Spring Boot con Oracle Database seguendo principi di Clean Architecture, Domain-Driven Design e best practice enterprise.
+- 🛠️ Competenze principali orientate allo sviluppo di soluzioni lato backend stabili e scalabili, seguendo l'approccio: analisi → progettazione → implementazione → refactor → test → containerization → deployment.
 - 🚀 Aspirazione: specializzazione nell'ambito DevOps e nella definizione di architetture Cloud ad alta disponibilità.
 
 ---
