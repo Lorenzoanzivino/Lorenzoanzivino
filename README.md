@@ -52,7 +52,7 @@ Metodologie, pattern e principi di progettazione software che applico nello svil
 
 <br>
 
-### 🏋️ [MyTrainUp-public](https://github.com/Lorenzoanzivino/MyTrainUp-public)
+### 🏋️ [MyTrainUp-Demo](https://github.com/Lorenzoanzivino/MyTrainUp-Demo)
 **Piattaforma Gestionale Full-Stack per Personal Trainer**  
 `React` • `Python` • `Flask` • `PostgreSQL`
 
