@@ -68,7 +68,7 @@ Metodologie, pattern e principi di progettazione software che applico nello svil
 
 ---
 
-### 🏋️ [MyTrainUp-public](https://github.com/Lorenzoanzivino/MyTrainUp-public)
+### 🏋️ [MyTrainUp-demo](https://github.com/Lorenzoanzivino/MyTrainUp-Demo)
 
 **Piattaforma gestionale per personal trainer e atleti**  
 `Python` `React` `Flask` `PostgreSQL`
@@ -79,7 +79,7 @@ Metodologie, pattern e principi di progettazione software che applico nello svil
 
 ---
 
-### 💻 [Lorenzo-portfolio](https://github.com/Lorenzoanzivino/Lorenzo-portfolio)
+### 💻 [Lorenzo-portfolio-parallax](https://github.com/Lorenzoanzivino/Lorenzo-portfolio-parallax)
 
 **Portfolio Full-Stack**  
 `React` `Flask`
