@@ -7,7 +7,6 @@
 - 🎓 Studente dell'ITS-ICT Academy nel corso Application Cloud Developer.
 - 💼 Backend Developer Intern @ [ONYX TECHNOLOGY srl](https://onyxtechnology.it/).
 - 🛠️ Sviluppo di microservizi Java/Spring Boot con Oracle Database seguendo principi di Clean Architecture, Domain-Driven Design e best practice enterprise.
-- 🚀 Aspirazione: specializzazione nell'ambito DevOps e nella definizione di architetture Cloud ad alta disponibilità.
 
 ---
 
@@ -30,7 +29,7 @@
 <a href="https://docs.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" height="28" /></a>
 <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=Postgresql&logoColor=white" height="28" /></a>
 
-### **DevOps & Infrastructure** 
+### **Infrastructure** 
 <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" height="28" /></a>
 <a href="https://docs.docker.com/compose/" target="_blank"><img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" height="28" /></a>
 <a href="https://www.kernel.org/doc/html/latest/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="28" /></a>
@@ -131,7 +130,6 @@ Metodologie, pattern e principi di progettazione software che applico nello svil
 - **2024** | ITS-ICT Academy
 - **2025** | Java • Spring Boot • Docker
 - **2026** | Backend Developer Intern @ [ONYX TECHNOLOGY](https://onyxtechnology.it/)
-- **Future** | Cloud Engineer / DevOps
 
 ---
 
