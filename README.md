@@ -5,8 +5,8 @@
 ## 💫 About Me
 
 - 🎓 Studente dell'ITS-ICT Academy nel corso Application Cloud Developer.
-- 💼 Backend Developer Intern @ [ONYX TECHNOLOGY srl](https://onyxtechnology.it/).
-- 🛠️ Sviluppo di microservizi Java/Spring Boot con Oracle Database seguendo principi di Clean Architecture, Domain-Driven Design e best practice enterprise.
+- 💼 Sviluppatore Backend Java jr @ [ONYX TECHNOLOGY srl](https://onyxtechnology.it/).
+- 🛠️ Sviluppo di ecosistemi a microservizi (Java/Spring Boot, Oracle Database) seguendo pattern architetturali (CQRS, Event-Driven Architecture) e principi di Clean Architecture.
 
 ---
 
@@ -53,10 +53,10 @@
 
 Metodologie, pattern e principi di progettazione software che applico nello sviluppo quotidiano per realizzare sistemi modulari, scalabili e facilmente manutenibili nel lungo periodo.
 
-- **Architetture e Pattern:** Architettura a Microservizi & API Gateway, Clean Architecture, Domain-Driven Design (DDD), CQRS, RESTful API Design, Design Patterns, Servizi Stateless, DRY Principle.
-- **Integrazioni, Sicurezza e Core:** Spring Security, Hibernate & JPA, JMS & ActiveMQ, SOAP, AOP (Aspect-Oriented Programming), Fondamenti di Cybersecurity, Debugging.
-- **DevOps, Versioning e Metodologie:** Containerization (Docker, Docker Compose), Ambienti Linux, Git & GitHub (Git Flow), Metodologie Agile & Scrum.
-- **AI & Productivity Tools:** AI-Assisted Development (Gemini, ChatGPT), AI Agents (Antigravity), Prompt Engineering applicato al ciclo di vita del software (SDLC), Automated Code Review.
+- **Architetture e Pattern:** Architettura a Microservizi & API Gateway, Clean Architecture, Bounded Contexts, CQRS, Event-Driven Architecture, RESTful API Design, Design Patterns, Servizi Stateless.
+- **Integrazioni, Sicurezza e Core:** Spring Security, Hibernate & Spring Data JPA, JMS & ActiveMQ, SOAP, AOP (Aspect-Oriented Programming), Fondamenti di Cybersecurity, Storicizzazione del dato.
+- **Infrastruttura, Versioning e Metodologie:** Containerization (Docker, Docker Compose), Ambienti Linux, Git & GitHub, Test Automatizzati (JUnit), Metodologie Agile & Scrum.
+- **AI & Productivity Tools:** Implementazione moduli AI (Spring AI), utilizzo strutturato di Agenti IA (Antigravity, Gemini, ChatGPT) per code review automatizzata, simulazione di pair programming e parsing semantico.
 
 ---
 
@@ -65,25 +65,24 @@ Metodologie, pattern e principi di progettazione software che applico nello svil
 ### ☁️ [Dev-Inventory-Cloud](https://github.com/Lorenzoanzivino/Dev-Inventory-Cloud)
 
 **Enterprise Cloud Native Microservices**  
-`Java` `Spring Boot` `Docker` `PostgreSQL`
+`Java` `Spring Boot` `Docker Compose` `PostgreSQL`
 
-- ✔ CQRS
-- ✔ OpenFeign
-- ✔ MapStruct
-- ✔ REST APIs
-- ✔ API Gateway
-- ✔ Docker Compose
+- ✔ Architettura a microservizi
+- ✔ API Gateway & OpenFeign
+- ✔ Autenticazione JWT (RBAC)
+- ✔ Database dedicato per servizio
+- ✔ Automazione test e build via GitHub Actions
 
 ---
 
 ### 🏋️ [MyTrainUp-demo](https://github.com/Lorenzoanzivino/MyTrainUp-Demo)
 
 **Piattaforma gestionale per personal trainer e atleti**  
-`Python` `React` `Flask` `PostgreSQL`
+`Python` `React/Vite` `Flask` `Docker`
 
 - ✔ Motore di workout JSON-based
-- ✔ Logica offline-first
-- ✔ Gamification
+- ✔ Interazione REST API e logica offline-first
+- ✔ Autenticazione JWT
 
 ---
 
@@ -127,9 +126,9 @@ Metodologie, pattern e principi di progettazione software che applico nello svil
 
 ## ⏳ Timeline
 
-- **2024** | ITS-ICT Academy
-- **2025** | Java • Spring Boot • Docker
-- **2026** | Backend Developer Intern @ [ONYX TECHNOLOGY](https://onyxtechnology.it/)
+- **2024 - 2026** | ITS-ICT Academy (Application Cloud Developer)
+- **2025** | Formazione su microservizi Java • Spring Boot • Docker
+- **2026 - Oggi** | Sviluppatore Backend Java jr @ [ONYX TECHNOLOGY](https://onyxtechnology.it/)
 
 ---
 
@@ -137,5 +136,4 @@ Metodologie, pattern e principi di progettazione software che applico nello svil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-anzivino-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://lorenzoanzivino.it/)
-[![Email Principale](https://img.shields.io/badge/Email_Principale-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lorenzoanzivinodigital@gmail.com)
-[![Email Secondaria](https://img.shields.io/badge/Email_Secondaria-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lorenzoanzivino1997@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lorenzoanzivino1997@gmail.com)
